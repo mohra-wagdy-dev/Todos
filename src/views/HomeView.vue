@@ -9,6 +9,10 @@
         aria-label="New todo text"
       />
       <input type="submit" value="Add Todo" />
+      <br />
+      <input type="date" placeholder="form" style="margin-top: 20px" />
+      <input type="date" placeholder="to" style="margin-left: 20px" />
+      <input type="submit" value="add" />
     </form>
   </div>
 </template>
